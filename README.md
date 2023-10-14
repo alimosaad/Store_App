@@ -1,4 +1,4 @@
-# splash_screen
+# Store App
 
 A new Flutter project.
 
